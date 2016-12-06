@@ -1,0 +1,13 @@
+#app {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color:#4D4D4D;
+    min-width:550px;
+    max-width: 850px;
+    margin:0 auto;
+}
+h1{
+    text-align:center
+}
+.header {
+    text-align:center
+}
