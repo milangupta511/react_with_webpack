@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {Link} from 'react-router';
 
 export default class HomePage extends Component {
-  render(){
+  render() {
     return (
       <div className="jumbotron">
         <h1>Administration Page</h1>
